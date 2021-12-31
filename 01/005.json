@@ -1,0 +1,12 @@
+[
+  {
+    "name": "pref_name",
+    "type": "STRING",
+    "mode": "required"
+  },
+  {
+    "name": "population",
+    "type": "INTEGER",
+    "mode": "required"
+  }
+]
