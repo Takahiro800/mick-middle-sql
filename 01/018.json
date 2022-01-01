@@ -1,0 +1,22 @@
+[
+  {
+    "name": "std_id",
+    "type": "INTEGER",
+    "mode": "required"
+  },
+  {
+    "name": "club_id",
+    "type": "INTEGER",
+    "mode": "required"
+  },
+  {
+    "name": "club_name",
+    "type": "STRING",
+    "mode": "required"
+  },
+  {
+    "name": "main_club_flg",
+    "type": "STRING",
+    "mode": "required"
+  }
+]
