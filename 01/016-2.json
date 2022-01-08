@@ -1,0 +1,12 @@
+[
+  {
+    "name": "month",
+    "type": "INTEGER",
+    "mode": "required"
+  },
+  {
+    "name": "course_id",
+    "type": "INTEGER",
+    "mode": "required"
+  }
+]
