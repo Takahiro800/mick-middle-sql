@@ -1,0 +1,36 @@
+{
+  "string": {
+    "prefix": "string",
+    "body": [
+      "{",
+      "\"name\": \"$1\",",
+      "\"type\": \"STRING\",",
+      "\"mode\": \"required\"",
+      "},",
+    ],
+  },
+  "integer": {
+    "prefix": "integer",
+    "body": [
+      "{",
+      "\"name\": \"$1\",",
+      "\"type\": \"INTEGER\",",
+      "\"mode\": \"required\"",
+      "},",
+    ],
+  },
+  "table_name": {
+    "prefix": "dataset",
+    "body": [
+      "test_dataset.",
+    ],
+  },
+  "comments": {
+    "prefix": "comments",
+    "body": [
+      "/*",
+      "$1",
+      "*/"
+    ],
+  },
+}
