@@ -1,0 +1,17 @@
+[
+  {
+    "name": "name",
+    "type": "STRING",
+    "mode": "required"
+  },
+  {
+    "name": "family_id",
+    "type": "INTEGER",
+    "mode": "required"
+  },
+  {
+    "name": "address",
+    "type": "STRING",
+    "mode": "required"
+  }
+]
