@@ -1,0 +1,12 @@
+[
+  {
+    "name": "meeting",
+    "type": "STRING",
+    "mode": "required"
+  },
+  {
+    "name": "person",
+    "type": "STRING",
+    "mode": "required"
+  }
+]

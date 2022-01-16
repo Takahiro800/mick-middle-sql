@@ -1,0 +1,17 @@
+[
+  {
+    "name": "student_id",
+    "type": "INTEGER",
+    "mode": "required"
+  },
+  {
+    "name": "subject",
+    "type": "STRING",
+    "mode": "required"
+  },
+  {
+    "name": "score",
+    "type": "INTEGER",
+    "mode": "required"
+  }
+]

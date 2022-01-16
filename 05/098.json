@@ -1,0 +1,57 @@
+[
+  {
+    "name": "keycol",
+    "type": "STRING",
+    "mode": "required"
+  },
+  {
+    "name": "col1",
+    "type": "INTEGER",
+    "mode": "nullable"
+  },
+  {
+    "name": "col2",
+    "type": "INTEGER",
+    "mode": "nullable"
+  },
+  {
+    "name": "col3",
+    "type": "INTEGER",
+    "mode": "nullable"
+  },
+  {
+    "name": "col4",
+    "type": "INTEGER",
+    "mode": "nullable"
+  },
+  {
+    "name": "col5",
+    "type": "INTEGER",
+    "mode": "nullable"
+  },
+  {
+    "name": "col6",
+    "type": "INTEGER",
+    "mode": "nullable"
+  },
+  {
+    "name": "col7",
+    "type": "INTEGER",
+    "mode": "nullable"
+  },
+  {
+    "name": "col8",
+    "type": "INTEGER",
+    "mode": "nullable"
+  },
+  {
+    "name": "col9",
+    "type": "INTEGER",
+    "mode": "nullable"
+  },
+  {
+    "name": "col10",
+    "type": "INTEGER",
+    "mode": "nullable"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "project_id",
+    "type": "STRING",
+    "mode": "required"
+  },
+  {
+    "name": "step_nbr",
+    "type": "INTEGER",
+    "mode": "required"
+  },
+  {
+    "name": "status",
+    "type": "STRING",
+    "mode": "required"
+  }
+]
