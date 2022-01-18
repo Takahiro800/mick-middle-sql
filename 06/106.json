@@ -1,0 +1,12 @@
+[
+  {
+    "name": "seq",
+    "type": "INTEGER",
+    "mode": "required"
+  },
+  {
+    "name": "name",
+    "type": "STRING",
+    "mode": "required"
+  }
+]
